@@ -10,6 +10,9 @@ This project analyzes Udemy course data to derive actionable insights for course
 ### 2. Movie Correlation Analysis Report
 This project explores correlations in movie data to uncover interesting patterns and insights.
 
+### 3. Web Scraping with Beautiful Soup
+This project scrapes job listings from a job site based on user-provided search terms and location.
+
 ## Getting Started
 
 To get started with any project:
